@@ -14,8 +14,13 @@
       "content": "We've implemented a dynamic tax system for vehicle sales to balance the server economy. The tax is deducted from the seller's final amount.<br><b>Key Features:</b><ul><li><b>No Limit Sales:</b> Cars can be sold at any price.</li><li><b>Seller-Paid Tax:</b> The tax is automatically deducted from the amount the seller receives.</li></ul><b>Tax Brackets (based on Gold Bar price):</b><ul><li>Up to 15,000 GB: <b>No Tax</b></li><li>Up to 25,000 GB: <b>15% Tax</b></li><li>Up to 50,000 GB: <b>20% Tax</b></li><li>Up to 80,000 GB: <b>30% Tax</b></li><li>Up to 100,000 GB: <b>40% Tax</b></li><li>Over 100,000 GB: <b>55% Tax</b></li></ul>"
     },
     {
+      "title": "Election Results Announced!",
+      "date": "August 22, 2025",
+      "content": "The votes are in and the results are official. Congratulations to our newly elected president, Carl_Sann! We wish him the best of luck in his new term."
+    },
+    {
       "title": "Welcome to the New Launcher!",
-      "date": "August 69, 2025",
+      "date": "August 22, 2025",
       "content": "Welcome to our new, custom-built game launcher! We've designed this to be your one-stop hub for everything related to the server. Please report any bugs on our Discord."
     }
   ],
